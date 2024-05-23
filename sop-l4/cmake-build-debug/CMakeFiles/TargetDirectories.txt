@@ -1,0 +1,3 @@
+/home/samba/molczane/dev/sop2/L4/sop-l4/cmake-build-debug/CMakeFiles/sop_l4.dir
+/home/samba/molczane/dev/sop2/L4/sop-l4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/samba/molczane/dev/sop2/L4/sop-l4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/samba/molczane/Apps/clion-2023.3.4/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/samba/molczane/Apps/clion-2023.3.4/bin/ninja/linux/x64/ninja -G Ninja -S /home/samba/molczane/dev/sop2/L4/sop-l4 -B /home/samba/molczane/dev/sop2/L4/sop-l4/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.3s)
+-- Build files have been written to: /home/samba/molczane/dev/sop2/L4/sop-l4/cmake-build-debug
